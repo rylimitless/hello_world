@@ -3,12 +3,31 @@
     <title>Hello World</title>
     <link href="https://rylimitless.github.io/hello_world/feed.xml" rel="self" />
     <link href="https://rylimitless.github.io/hello_world" />
-    <updated>2022-11-03T08:06:31-05:00</updated>
+    <updated>2022-11-18T15:51:58-05:00</updated>
     <author>
         <name>Ry</name>
     </author>
     <id>https://rylimitless.github.io/hello_world</id>
 
+    <entry>
+        <title>How would you like an extra hour?</title>
+        <author>
+            <name>Ry</name>
+        </author>
+        <link href="https://rylimitless.github.io/hello_world/how-would-you-like-an-extra-hour.html"/>
+        <id>https://rylimitless.github.io/hello_world/how-would-you-like-an-extra-hour.html</id>
+
+        <updated>2022-11-18T15:51:58-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introduction</title>
         <author>
@@ -17,7 +36,7 @@
         <link href="https://rylimitless.github.io/hello_world/hello-world.html"/>
         <id>https://rylimitless.github.io/hello_world/hello-world.html</id>
 
-        <updated>2022-11-03T08:06:31-05:00</updated>
+        <updated>2022-11-03T08:28:52-05:00</updated>
             <summary>
                 <![CDATA[
                     Hello World, Welcome to the best place on the internet, no kidding....&nbsp;
